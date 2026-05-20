@@ -26,9 +26,11 @@ import {
 type ThemeMode = "dark" | "light";
 
 const downloadLinks = {
-  
-  android: "href=https://github.com/mukisa125/laundrypro-downloads/releases/download/v1.0.0/LaundryPro.apk",
-  windows: "https://github.com/mukisa125/laundrypro-downloads/releases/download/v1.0.0/LaundryPro_v3.exe",
+  android:
+    "https://github.com/mukisa125/laundrypro-downloads/releases/download/v1.0.0/LaundryPro.apk",
+
+  windows:
+    "https://github.com/mukisa125/laundrypro-downloads/releases/download/v1.0.0/LaundryPro_v3.exe",
 };
 
 const whatsappLinks = {
